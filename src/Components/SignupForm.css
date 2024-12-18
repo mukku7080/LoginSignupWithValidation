@@ -1,0 +1,17 @@
+/* Reserve space for error messages */
+.error-msg {
+    min-height: 20px; 
+    font-size: 0.9rem;
+  }
+  
+  
+  form input {
+    border: 1px solid #ced4da;
+  }
+  
+  form input:focus {
+    border-color: #80bdff;
+    outline: 0;
+    box-shadow: 0 0 5px rgba(0, 123, 255, 0.25);
+  }
+  
